@@ -19,7 +19,7 @@ Atualmente aprimoro minhas habilidades em **Angular, Vue.js, Express.js e RESTfu
 
 ## ðŸ“« Contato
 - **Email:** brenonunes.santos18@gmail.com  
-- **LinkedIn:** [linkedin.com/in/brenonunesdev](https://linkedin.com/in/brenonunesdev)
+- **LinkedIn:** [https://www.linkedin.com/in/breno-nunes-31b6b9267)
 
 ---
 
